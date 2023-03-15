@@ -1,4 +1,4 @@
-# Personalized AI chatbot using ChatGPT using your own data set.
+# Personalized AI chatbot using ChatGPT using your own data set
 
 This project shows how to use the OpenAI API and LlamaIndex to create a personalized chatbot that can process your own text documents to generate curated responses. Although it is posible to use other LLMs (Large Language Models), like the free alternative LangChain, for this example we are using the commercial license of ChatGPT. That's why the code provided in this GitHub will not be functional without a your personal API key from OpenAI.
 
